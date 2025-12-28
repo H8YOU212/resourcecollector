@@ -1,4 +1,4 @@
-module ResourceMonitor
+module github.com/H8YOU212/resourcecollector
 
 go 1.24.5
 
